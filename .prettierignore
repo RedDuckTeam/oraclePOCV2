@@ -1,0 +1,9 @@
+node_modules
+artifacts
+cache
+coverage*
+gasReporterOutput.json
+typechain-types
+
+# Vendored third-party contracts, kept as-is (see .solhintignore).
+contracts/utils
